@@ -1,12 +1,9 @@
-# HC3portfDataAnlytic
-Creation of a new portfolio with html 
+
 # Hi, I'm Avinash yesuri 👋
 
 ## About Me
 
-I am an experienced Frontend Developer with 1 year of expertise in React and JavaScript. I have developed responsive and user-friendly designs using TailwindCSS and Bootstrap, optimizing page load speed for Hola9 Classifieds.
-
-My proficiency extends to Python and SQL, with valuable internship experience in automation analysis from CCBP Nxtwave. As a solution-oriented strategist, I focus on long-term goals and cross-functional collaboration, successfully designing and building web applications.
+Results-driven professional with 1 year of experience in Frontend Development, now transitioning into Data Analysis. Possess strong expertise in SQL and Python, along with hands-on experience in database management, data acquisition, and in-depth data analysis using Pandas and NumPy. Skilled in creating interactive visualizations and dashboards with Microsoft Power BI and Tableau. Looking to leverage my analytical skills and technical expertise to contribute as a Data Analyst
 
 ## Skills
 
