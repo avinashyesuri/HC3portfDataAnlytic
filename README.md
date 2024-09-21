@@ -7,11 +7,13 @@ Results-driven professional with 1 year of experience in Frontend Development, n
 
 ## Skills
 
-- **Frontend Development:** React, JavaScript, HTML5, CSS3, TailwindCSS, Bootstrap
-- **Backend Development:** Python, SQL 
-- **database :** Powerbi, SQL
-- **Tools & Technologies:** VS Code, Git, Webpack
+- **Programming Languages:**  Python, JavaScript 
+- **Database:**  SQL, MySQL, Powerbi, Numpy & pandas, Tableau
+- **Tools:**  Git, VS Code, WaterFall
 - **Soft Skills:** Solution-oriented strategist, cross-functional collaboration, long-term goal focus
+- **Portofolio :**  https://data2portawii.vercel.app/
+- **Github  repo:**  https://github.com/avinashyesuri
+
 
 ## Experience
 
