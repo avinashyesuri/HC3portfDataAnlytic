@@ -69,6 +69,81 @@ width:200px;
 .navbar a:hover{
     color: #0ef;
 }
+
+
+
+/* Style for the hamburger icon */
+.hamburger {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+    z-index: 1001;
+}
+
+.hamburger span {
+    height: 3px;
+    width: 30px;
+    background-color: #fff;
+    margin: 4px 0;
+    transition: 0.4s;
+}
+
+/* Hide the navbar for small screens */
+@media (max-width: 768px) {
+    .navbar {
+        position: absolute;
+        top: 100%;
+        right: 0;
+        background-color: #051129;
+        width: 100%;
+        display: none;
+        flex-direction: column;
+        align-items: center;
+        padding: 10px;
+    }
+
+    .navbar a {
+        margin: 10px 0;
+        font-size: 22px;
+    }
+
+    /* Show the hamburger menu */
+    .hamburger {
+        display: flex;
+    }
+
+    /* When menu is opened, show the links */
+    .navbar.active {
+        display: flex;
+    }
+    .header{
+        width: 100%;
+    }
+ .header button{
+    display: none;
+ }
+ .home{
+    position: relative;
+    width: 100%;
+    justify-content: space-between;
+    height: 100vh;
+    background-color: rgb(8, 19, 60);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    padding: 70px 10% 0;
+}
+}
+
+
+
+
+
+
+
+
+
 .home{
     position: relative;
     width: 100%;
@@ -149,6 +224,51 @@ color: cyan;
     height: 450px;
     width: 350px;
     border-radius: 50%;
+}
+/* Hide the navbar for small screens */
+/* Hide the navbar for small screens */
+@media (max-width: 768px) {
+
+    .home {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 20px 10%;
+    }
+
+    .home-content {
+        max-width: 100%;
+        text-align: center; /* Center the text content */
+    }
+
+    .home-content h1 {
+        font-size: 36px; /* Adjust font size for smaller screens */
+    }
+
+    .home-content h3 {
+        font-size: 24px; /* Adjust the size of the secondary text */
+    }
+
+    .home-content p {
+        font-size: 18px; /* Adjust the size of the paragraph text */
+    }
+
+    .face-img {
+        height: 300px;
+        width: 300px;
+        border-radius: 50%;
+        margin-bottom: 20px; /* Add some space between the image and content */
+    }
+
+    .home-sci {
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+    .home-sci a {
+        margin: 10px;
+    }
 }
 
 
@@ -1110,4 +1230,32 @@ border-radius: 0.5rem;
 .contact-form.fade-out {
     opacity: 0;
     transform: translateY(20px);
+}
+
+
+
+
+
+
+
+
+
+
+/* CSS STYLING-- */
+@media (max-width: 768px) {
+    .header {
+        padding: 15px 5%;
+    }
+
+    .home-content h1 {
+        font-size: 42px;
+    }
+
+    .home-content p {
+        font-size: 18px;
+    }
+
+    .card {
+        max-width: 90%;
+    }
 }
