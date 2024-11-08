@@ -41,7 +41,6 @@ Feel free to reach out to me for collaboration or inquiries.
 - **Leetcode :**(https://leetcode.com/u/avinashYesuri/)
 - **GitHub:**https://github.com/Avinashhola
 
-
 ## home page 
 ![image](https://github.com/user-attachments/assets/39ee6b26-ad95-423d-bf3a-df175cf5906c)
 
