@@ -32,7 +32,6 @@ Results-driven professional with 1 year of experience in Frontend Development, n
   - Currently working on the 'mycraneapp' project within the 'RS3CommodityFrndsApp' directory in the 'HOLA 9 PRAC' workspace.
 
 ## Contact
-
 Feel free to reach out to me for collaboration or inquiries.
 
 - **Email:** hariyesuri98@gmail.com
